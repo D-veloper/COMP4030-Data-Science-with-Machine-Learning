@@ -8,7 +8,7 @@ People with mobility disabilities face challenges, especially when navigating un
 ### Project Overview:
 - **Sensor Information:** The project employs an Axivity 6-axis IMU sensor (Axivity AX6) to capture 3-axis accelerometer and 3-axis gyroscope readings. The IMU is securely positioned on the rollator, as illustrated in Figure 1.
 
-  ![Rollator Position](images/rollator_position.png)
+  ![Rollator Position](images/rollator_IMU.png)
 
 ### Data Collection:
 - **Surfaces Investigated:**
