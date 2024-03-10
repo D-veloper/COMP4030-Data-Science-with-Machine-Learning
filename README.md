@@ -29,7 +29,7 @@ The **primary** objective is to develop machine learning models using Axivity se
 ### How to Contribute:
 1. Clone the repository to your local machine.
     
-   git clone https://github.com/your-username/rollator-surface-recognition.git
+   git clone  https://github.com/your-username/COMP4030-Data-Science-With-Machine-Learning.git
    
 2. Make changes, commit them, and push to your branch.
 
