@@ -1,0 +1,7 @@
+Checklist
+
+1. Comparison of different classifiers performance: Use box plots rather bar charts
+
+2. Carry out statistical test of comparison of each classifiers performance
+
+3. Use a workflow to explain the steps in the project.
